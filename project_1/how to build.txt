@@ -1,0 +1,7 @@
+1. Build by NMake
+VS Developer Command line
+cmake ../ -G"NMake Makefiles" 
+nmake
+
+2. Or generate VS Project
+cmake ../ 
